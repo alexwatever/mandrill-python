@@ -1,0 +1,4 @@
+2016-02-05 01:33:56,838 Starting new HTTPS connection (1): mandrillapp.com
+2016-02-05 01:34:02,732 "Row: 1","Email: test1@email.com","Name: Alex"
+2016-02-05 01:34:02,948 "Row: 2","Email: test2@email.com","Name: Jim"
+2016-02-05 01:34:03,138 "Row: 3","Email: test3@email.com","Name: Brian"
