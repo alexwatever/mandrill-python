@@ -12,8 +12,8 @@ logging.basicConfig(filename=log, format='%(asctime)s %(message)s', level=loggin
 # set api key
 API_KEY = ''
 
-# set variables
-template = 'website-password-change'
+# set template slug
+template = ''
 
 
 def send_mail(template_name, key, data):
